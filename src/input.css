@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Josefin Sans", sans-serif;
+  }
+
+  /* * {
+    border: 1px solid red;
+  } */
+}
